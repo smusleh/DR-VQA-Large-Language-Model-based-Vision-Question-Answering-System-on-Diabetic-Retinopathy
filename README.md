@@ -27,7 +27,7 @@ It is fine-tuned for **retinal image question-answering tasks** (RetinaVQA datas
  ┣ 📁 validation/
  ┣ 📁 test/
  ┗ 📄 dataset_info.json
-📄 Blip2_With_Attention.py
+📄 Blip2_With_Attention.ipynb
 📄 README.md
 ```
 
